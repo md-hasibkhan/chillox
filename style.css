@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    font-family: 'Otomanopee One', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    
+}
+.cover{
+    background-image: url("images/Frame\ 59.jpg");
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+}
+
+.half{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 70px;
+}
+h1 span{
+    color: tomato;
+}
+h3{
+    font-size: 30px;
+}
+.half-width img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background: linear-gradient(45deg, tomato,yellow);
+    padding: 20px 80px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
