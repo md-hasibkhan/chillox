@@ -31,7 +31,7 @@ p{
 h1{
     font-size: 40px;
 }
-h1 span{
+span{
     color: tomato;
 }
 h3{
@@ -70,6 +70,7 @@ h4{
     padding-left: 2%;
     background-color:rgba(255, 99, 71, 0.438);
     border-radius: 4%;
+    box-shadow: 5px 10px #888888;
 
 }
 
